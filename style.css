@@ -1,0 +1,42 @@
+body{
+    background: #4BCE97;
+    
+}
+.container-fluid{
+    margin: 0px !important;
+    padding: 0px !important;
+}
+header{
+    text-align: center;
+    justify-content: center !important;
+    border-bottom: 1px solid black;
+ 
+}
+header button{
+    color: #fff !important;
+    font-size:1rem!important;
+    margin-right: 5% ;
+}
+/* Hassane Abdel-Razak */
+#minutes{
+    height: 3rem;
+    width:  10%;
+    border-radius:5px ;
+    border: 2px;
+}
+.chrono{
+    margin-top: 45rem;
+    justify-content: center;
+}
+.chrono #timer{
+    font-size: 4rem;
+    color: #fff;
+}
+.chrono span{
+    font-size: 1.5rem;
+    color: #fff;
+}
+.chrono{
+    display: none;
+}
+
